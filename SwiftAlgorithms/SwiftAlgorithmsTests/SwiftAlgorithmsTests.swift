@@ -1,10 +1,3 @@
-//
-//  SwiftAlgorithmsTests.swift
-//  SwiftAlgorithmsTests
-//
-//  Created by Nabil Safatli on 2024-09-21.
-//
-
 import Testing
 
 struct SwiftAlgorithmsTests {

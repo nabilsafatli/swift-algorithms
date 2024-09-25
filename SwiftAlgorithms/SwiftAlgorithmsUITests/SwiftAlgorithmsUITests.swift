@@ -1,10 +1,3 @@
-//
-//  SwiftAlgorithmsUITests.swift
-//  SwiftAlgorithmsUITests
-//
-//  Created by Nabil Safatli on 2024-09-21.
-//
-
 import XCTest
 
 final class SwiftAlgorithmsUITests: XCTestCase {

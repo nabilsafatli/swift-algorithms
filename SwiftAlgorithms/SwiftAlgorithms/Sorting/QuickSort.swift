@@ -1,7 +1,5 @@
-//
-//  QuickSort.swift
-//  SwiftAlgorithms
-//
-//  Created by Nabil Safatli on 2024-09-25.
-//
-
+struct QuickSort {
+    static func sort(array: inout [Int]) {
+        
+    }
+}

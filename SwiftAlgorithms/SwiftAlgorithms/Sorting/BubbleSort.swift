@@ -1,5 +1,5 @@
 struct BubbleSort {
-    static func sort(array: inout [Int]){
+    static func sort(array: inout [Int]) {
         var didSort = false
         for i in 0..<(array.count - 1) {
             if array[i] > array[i + 1] {
